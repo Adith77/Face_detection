@@ -7,3 +7,4 @@ opencv-python==4.9.0.80
 numpy==1.26.3
 face-recognition==1.3.0
 dlib==19.24.2
+git+https://github.com/Adith77/Face_detection.git
